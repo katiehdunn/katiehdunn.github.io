@@ -9,6 +9,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-theme-midnight
 title: This is Katie Dunn's website.
 description: It's a work in progress. Check back in a month or so.
+email: katiehdunn@gmail.com
+baseurl: ""       # the subpath of your site, e.g. /blog
+url: ""           # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: jekyll-theme-midnight
+markdown: kramdown
+mathjax: true
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
