@@ -18,17 +18,17 @@ baseurl: ""       # the subpath of your site, e.g. /blog
 url: ""           # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: katiehdunn/katiehdunn.github.io
+remote_theme: katiehdunn/khd-theme
 markdown: kramdown
 mathjax: true
 
 # Pages to include in header navigation
 nav_pages:
-  - index.html
+#  - index.html
   - talks.md
-  - press.md
-  - about.md
-  - contact.md
+#  - press.md
+#  - about.md
+#  - contact.md
 
 # Pages to include in footer navigation
 footer_page:
