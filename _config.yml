@@ -24,11 +24,11 @@ mathjax: true
 
 # Pages to include in header navigation
 nav_pages:
-  - index.html
+#  - index.html
   - talks.md
-  - press.md
-  - about.md
-  - contact.md
+#  - press.md
+#  - about.md
+#  - contact.md
 
 # Pages to include in footer navigation
 footer_page:
