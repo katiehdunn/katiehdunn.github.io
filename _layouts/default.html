@@ -16,14 +16,15 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     
-    <!–– importing font awesome ––>    
+    <!-- importing font awesome -->    
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
   </head>
   <body>
+      <!-- this is the bar that scrolls down with everything -->
       <div id="header">
         <nav>
-          <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+          <li class="fork"><a href="{{ site.github.repository_url }}">I am a button</a></li>
           {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
@@ -39,7 +40,7 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
-          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+          <span class="credits left">Site maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages</span>
         </div>
 
