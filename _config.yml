@@ -11,25 +11,42 @@
 
 title: This is Katie Dunn's website.
 description: It's a work in progress. Check back in a month or so.
+lang: en-US
+
 email: katiehdunn@gmail.com
 baseurl: ""       # the subpath of your site, e.g. /blog
 url: ""           # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: khd
+remote_theme: benbalter/retlab
 markdown: kramdown
 mathjax: true
-plugins:
-  - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Pages to include in header navigation
+nav_pages:
+  - index.html
+  - talks.md
+  - press.md
+  - about.md
+  - contact.md
+
+# Pages to include in footer navigation
+footer_page:
+  - books.md
+  - fine-print.md
+
+# Links to include on the contact page
+contact_links:
+  - name: Twitter
+    url: https://twitter.com/BenBalter
+    icon: twitter
+  - name: Facebook
+    url: https://facebook.com/BenBalter
+    icon: facebook
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed
