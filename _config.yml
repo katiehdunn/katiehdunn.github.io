@@ -10,39 +10,45 @@
 # in the templates via {{ site.myvariable }}.
 
 title: This is Katie Dunn's website.
-description: It's a work in progress. Check back in a month or so.
-lang: en-US
+description: > # this means to ignore newlines
+  Hey, this is still a work in progress. The current version is
+  extremely unaesthetic. Check back in a month or so.
 
 email: katiehdunn@gmail.com
 baseurl: ""       # the subpath of your site, e.g. /blog
 url: ""           # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+khd-theme:
+  date_format: "%b %-d, %Y"
 
 # Build settings
 remote_theme: katiehdunn/khd-theme
 markdown: kramdown
 mathjax: true
 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+ - books.md
+
 # Pages to include in header navigation
 nav_pages:
 #  - index.html
-  - talks.md
+#  - talks.md
 #  - press.md
 #  - about.md
-#  - contact.md
-
-# Pages to include in footer navigation
-footer_page:
-  - books.md
-  - fine-print.md
+  - contact.md
 
 # Links to include on the contact page
 contact_links:
   - name: Twitter
     url: https://twitter.com/BenBalter
-    icon: twitter
   - name: Facebook
     url: https://facebook.com/BenBalter
-    icon: facebook
 
 # Plugins
 plugins:
