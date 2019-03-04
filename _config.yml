@@ -34,21 +34,7 @@ mathjax: true
 header_pages:
  - about.md
  - books.md
-
-# Pages to include in header navigation
-nav_pages:
-#  - index.html
-#  - talks.md
-#  - press.md
-#  - about.md
-  - contact.md
-
-# Links to include on the contact page
-contact_links:
-  - name: Twitter
-    url: https://twitter.com/BenBalter
-  - name: Facebook
-    url: https://facebook.com/BenBalter
+ - contact.md
 
 # Plugins
 plugins:
