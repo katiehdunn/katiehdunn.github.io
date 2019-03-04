@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is the home page.
 
 I'm using the [editor on GitHub](https://github.com/katiehdunn/katiehdunn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,9 +26,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+That's all for now! Check back later...
