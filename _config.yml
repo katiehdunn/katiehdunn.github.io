@@ -1,44 +1,71 @@
-# This config file is for settings that affect the whole site, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: This is Katie Dunn's website.
-description: > # this means to ignore newlines
-  Hey, this is still a work in progress. The current version is
-  extremely unaesthetic. Check back in a month or so.
-
+#
+###################################
+# Site-wide config
+####################################
+#
+title: katiehdunn
 email: katiehdunn@gmail.com
-baseurl: ""       # the subpath of your site, e.g. /blog
-url: ""           # the base hostname & protocol for your site, e.g. http://example.com
+description: A simple and awesome blog theme powered by jekyll.
+url: # the base hostname & protocol for your site
+keywords: ["katiehdunn", "katie", "dunn", "katie dunn"]
 
+#
+###################################
+# Jekyll configuration
+####################################
+#
+# timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-khd-theme:
-  date_format: "%b %-d, %Y"
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 
-# Build settings
-remote_theme: katiehdunn/khd-theme
-markdown: kramdown
-mathjax: true
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
- - about.md
- - books.md
- - contact.md
-
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-avatar
-  - jekyll-github-metadata
-  - jekyll-feed
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Katie Dunn
+  avatar: leonids-logo.png
+  job: "STEM Educator"
+  bio: "Interested in stuff!"
+  email:
+#  disqus-shortname:
+#  twitter: #username
+#  facebook: #username
+#  google:
+#    plus: #username
+#    analytics:
+#    verify:
+#    ad-client:
+#    ad-slot:
+#  bing-verify:
+#  github: #username
+#  gitlab: #username
+#  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#  linkedin: #username
+#  skype: #username
+#  xing: #username
+#  instagram: #username
+#  lastfm: #username
+#  tumblr: #username
+#  pinterest: #username
+#  foursquare: #username
+#  steam: #username
+#  dribbble: #username
+#  youtube: #username
+#  soundcloud: #username
+#  weibo: #username
+#  flickr: #username
+#  500px: #username
+#  codepen: #username
+#  reddit: #username
+#  telegram: #username
