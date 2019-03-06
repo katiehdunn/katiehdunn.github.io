@@ -1,2 +1,2 @@
 # katiehdunn.github.io
-# Still working on it.
+A semi-personal site. Still a work-in-progress.
