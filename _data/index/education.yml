@@ -1,8 +1,20 @@
 - name: Woodrow Wilson Academy of Teaching and Learning
   link: https://woodrowacademy.org/
   date: 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+  descr: (expected graduation in 2019)
 
 - name: Massachusets Instutite of Technology
   link: http://web.mit.edu/
   date: 2014 - 2018
+
+- name: Scheller Teacher Education Program
+  link: http://web.mit.edu/mitstep/about.html
+  date: 2016 - 2018
+
+- name: Summer Science Program
+  link: https://summerscience.org/
+  date: 2013
+
+- name: Santa Monica High School
+  link: http://www.samohi.smmusd.org/
+  date: 2010 - 2014

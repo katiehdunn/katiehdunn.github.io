@@ -1,20 +1,24 @@
 # careers section data
+- name: Educational Studies Program
+  link: https://esp.mit.edu/
+  date: 2018
+  job:  Volunteer Instructor
+
 - name: Summer Science Program
   link: https://summerscience.org/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: TA & Residential Mentor
+  date: 2017, 2018
+  job:  Teaching Assistant & Residential Mentor
 
 - name: SPARC
   link: https://sparc-camp.org/
-  date: May 2014 - July 2017
-  job: instructor
+  date: 2018
+  job:  Instructor
 
 - name: Boston Public Schools
   link: https://www.bostonpublicschools.org/
-  date: 2013 - 2014
-  job: student teacher
+  date: 2017 - 2018
+  job:  Student Teacher
 
-- name: Boston Public Schools
-  link: https://www.bostonpublicschools.org/
+- name: Institute of Chinese Language and Culture
   date: 2013 - 2014
-  job: student teacher
+  job:  Assistant Teacher
