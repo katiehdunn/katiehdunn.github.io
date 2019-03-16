@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "I’m not a STEM teacher (yet)"
-excerpt: "Xpost SWW."
-categories: [education, design]
+categories: [education, design, life]
 comments: true
 ---
 
-In class the other day, we sat down to design our [“teacher personas“](https://www.chronicle.com/article/Crafting-a-Teaching-Persona/46671). It’s a pretty common idea in education that your teacher-face doesn’t need to be all of you [or even particularly close to your “true self”](https://www.edutopia.org/discussion/teachers-persona-or-personality-which-more-important).
+For coursework at Woodrow Wilson the other day, we sat down to design our [“teacher personas“](https://www.chronicle.com/article/Crafting-a-Teaching-Persona/46671). It’s a pretty common idea in education that your teacher-face doesn’t need to be all of you [or even particularly close to your “true self”](https://www.edutopia.org/discussion/teachers-persona-or-personality-which-more-important).
 
 <!--more-->
 
