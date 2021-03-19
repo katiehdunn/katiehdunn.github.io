@@ -5,9 +5,9 @@ excerpt: A review of Stoppard's _Arcadia_
 categories: [review]
 comments: true
 ---
-Between lunch and dinner with various people at various places, the first day of the four day weekend was spent alone at a play – none other than Stoppard’s Arcadia.
+Between lunch and dinner with various people at various places, the first day of my four day weekend was spent alone at a play – none other than Stoppard’s _Arcadia_.
 
-I think this is the play that, when I finished reading it, I felt the greatest need to watch. Usually I’m quite content to have just the words on the page, but this time I felt something passed me by in the reading, something was lacking – and at the same time it was too much for me to fully grasp in one reading. It seems I have finally gotten my wish, and am not atoll disappointed.
+I think this is the play that, when I finished reading it, I felt the greatest need to watch. Usually I’m quite content to have just the words on the page, but this time I felt something passed me by in the reading, something was lacking – and at the same time it was too much for me to fully grasp in one reading. It seems I have finally gotten my wish, and am not at all disappointed.
 
 Beginning at 2pm – rather, 1:30 – I was left with the rather awkward business of deciding when to enter. But I went with a safe 15 minutes prior, and seated myself. The stage was well-lit: a wooden floor, rectangular dining table with a scattering of objects and papers, and four seats around it. In the background were clean white french windows, and a door to the outside or an adjacent room. Audience seating was, incidentally, also well-arranged; there was no bad seat in the house. Read the program, try to remember a little about the play I read so many years ago. Overhear a man elucidating the second law of thermodynamics to his companions. Lights dim, cue transition music. So it begins.
 

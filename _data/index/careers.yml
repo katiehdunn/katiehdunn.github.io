@@ -1,27 +1,27 @@
 # careers section data
-- name: Center for Curriculum Redesign
-  link: https://www.curriculumredesign.org/
-  date: 2019 - present
-  job:  Researcher in Education
-
 - name: Boston Latin School
   link: https://www.bls.org/
   date: 2019 - present
-  job:  Teacher
+  job:  STEM Teacher
+
+- name: Center for Curriculum Redesign
+  link: https://www.curriculumredesign.org/
+  date: 2019 - present
+  job:  Education Researcher, Manager 
 
 - name: Educational Studies Program
   link: https://esp.mit.edu/
-  date: 2018 - present
+  date: 2018 - 2020
   job:  Volunteer Instructor
 
 - name: Summer Science Program
   link: https://summerscience.org/
-  date: Summer '17 & '18
+  date: Summer '17, '18, '20
   job:  Teaching Assistant & Residential Mentor
 
 - name: SPARC
   link: https://sparc-camp.org/
-  date: Summer '18
+  date: Summer '18, '20
   job:  Instructor
 
 - name: MIT & Lowell Observatory
@@ -49,5 +49,5 @@
   job:  Manager
 
 - name: various 
-  date: 2012 - present
+  date: 2012 - 2017
   job:  District-level & Private Tutor

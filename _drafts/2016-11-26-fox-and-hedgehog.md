@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "generalists/foxes and hedgehogs"
+title: "On Foxes and Hedgehogs"
 categories: [mental models, life]
 comments: true
 ---
@@ -69,9 +69,9 @@ My argument switched to the practicality of things. If I lived in a swing state,
 
 The election happened recently. I watched media sensationalism. I watched sites call the results for states with 0% of the votes counted. I watched discrepancies in confidence of 50%+ between different sites. I watched as people reeled in shock when a silent, unpolled, dissatisfied population decided to show up and advocate for change. I watched people despair.
 
-Am I that concerned with the outcome? Not really. I consider this an interesting datum in what noticeable effects the presidency has, how unpredictable polls are, and other things that affect my conception of how our government works. Today, people seemed to have calmed down. Even though I admit I’m concerned about climate change, which transcends politics and other subjective debates, the numbers suggest it wont’ be awful (or, much more awful than it already is). Perhaps I could afford to care a little more about parties that will feel the impact of these results more than I will. I have a pretty small sphere of moral concern – and I’m sorry to admit I’m not convinced that’s a terrible thing.
+Am I that concerned with the outcome? Not really. I consider this an interesting datum in what noticeable effects the presidency has, how unpredictable polls are, and other things that affect my conception of how our government works. Today, people seemed to have calmed down. Even though I’m concerned about climate change, which transcends politics and other subjective debates, the numbers suggest it wont’ be awful (or, much more awful than it already is). Perhaps I could afford to care a little more about parties that will feel the impact of these results more than I will.
 
-All that said, it’s perhaps surprising that I changed my viewpoint on voting at all. A lot of beliefs and habits that were ingrained at a younger age just kind of…stick.
+All that said, it’s perhaps surprising that I changed my viewpoint on voting at all. A lot of beliefs and habits that were ingrained at a younger age just kind of...stick.
 
 I was just explaining to a friend of mine how, when eating bread and drinking water, the bread in your stomach absorbs the water in, thus increasing in volume and making you feel fuller. I had heard this countless times from my mom, so as to learn the lesson not to eat too much bread before the main dishes came at restaurants. As the words came out of my mouth, I knew I had reason to start doubting this.
 
