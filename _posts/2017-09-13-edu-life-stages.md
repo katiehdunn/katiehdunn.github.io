@@ -1,16 +1,13 @@
 ---
 layout: post
-title: "Chaos in the Classroom"
-excerpt: On blame, updating, how to win arguments
+title: "Life Stages of Education"
+excerpt: Courseload Senior Fall
 categories: [review]
 comments: true
 ---
-
-00:53, desk, 5W, Cambridge
-
 What is the goal of education? do facts even matter at all?
 
-My courses are currently: 11.124 (Looking Backwards and Forwards at Education), 11.129 (Educational Theory and Practice I), 12.420/601 [grad] (Physics and Chemistry of the Solar System/Essentials of Planetary Science), 21G.109 (Chinese Streamlined III), 21G.501 (Japanese I), 21M.600 (Intro to Acting).
+My courses are currently: 11.124 (Looking Backwards and Forwards at Education), 11.129 (Educational Theory and Practice I), 12.420/601 (Physics and Chemistry of the Solar System/Essentials of Planetary Science), 21G.109 (Chinese Streamlined III), 21G.501 (Japanese I), 21M.600 (Intro to Acting).
 
 Class is not about the notes, equations & other collected papers, but rather the unrecorded experiences, skills & memories.
 
@@ -54,4 +51,4 @@ Still, the book (obviously aimed at the general populace) made me appreciate how
 
 So am I trying to, in others’ eyes, effectively “retire” before ever having to slave away? A little bit, I suppose. Alternatively phrased, is it possible to just do what I want and still prosper? Well…I guess…
 
-Blah. I don’t know. I think there are problems with Laslett’s model; clearly some of his Second/Third Age ideas need a little flexibility and blending. I think there are also problems with personally taking the path I’ve seen others go down, where they just go do things they are interested in, no matter how crazy – and it absolutely works! But… I think I’d be happier just teaching for at least a little while. It feels a little scary to say that, a little bit too much like I’m just “giving in” to a system or giving up some semblance of independence/individuality/identity that comes with nonconformity. Still. I think I’m reasonably happy with the idea and current trajectory. While it isn’t fulfilling any lofty goal, I feel like my feet are finally both on the ground and moving forward. And I think – hope – that that’s a good thing.
+I don’t know. I think there are problems with Laslett’s model; clearly some of his Second/Third Age ideas need a little flexibility and blending. I think there are also problems with personally taking the path I’ve seen others go down, where they just go do things they are interested in, no matter how crazy – and it absolutely works! But… I think I’d be happier just teaching for at least a little while. It feels a little scary to say that, a little bit too much like I’m just “giving in” to a system or giving up some semblance of independence/individuality/identity that comes with nonconformity. Still. I think I’m reasonably happy with the idea and current trajectory. While it isn’t fulfilling any lofty goal, I feel like my feet are finally both on the ground and moving forward. And I think – hope – that that’s a good thing.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Chaos in the Classroom"
-excerpt: On blame, updating, how to win arguments
-categories: [review]
+title: "Reading and Writing"
+excerpt: On literature
+categories: [thoughts]
 comments: true
 ---
 Now I’ll digress into not practicing what I preach.

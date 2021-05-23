@@ -1,14 +1,10 @@
 ---
 layout: post
-title: "Chaos in the Classroom"
-excerpt: On blame, updating, how to win arguments
-categories: [review]
+title: "Pentagons"
+excerpt: On communication 
+categories: [mental model]
 comments: true
 ---
-
-
-Jul. 19, 2018
-
 I’m not sure the titular term is the correct one. But I want to point at something(s) that apply(s) when you know material really well, and therefore on some level assume someone else also knows it. It might be the illusion of transparency + failing at PCK-seeking/theory of mind. It’s definitely similar to the idea of “pentagons” or:
 
 Screen Shot 2018-05-08 at 20.54.49 [gap map]

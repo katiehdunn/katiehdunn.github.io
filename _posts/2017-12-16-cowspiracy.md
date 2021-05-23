@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Chaos in the Classroom"
+title: "Cowspiracy"
 excerpt: On blame, updating, how to win arguments
 categories: [review]
 comments: true
 ---
-
-17:28, floor, bedroom, Palo Alto
-
 AP Environmental Science (APES) is a joke. Everyone knows that. Even the acronym sounds ridiculous. So when I was conscripted (chose) to’ work in an APES classroom to get my teaching license this year (since I’m “not qualified” for biology), I didn’t think much of it besides another hoop to jump through for my license.
 
 Slowly, though, the class has started influencing me in pretty significant ways without my even noticing. More on this in a later post – this current one is about the content itself.

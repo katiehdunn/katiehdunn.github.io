@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Chaos in the Classroom"
-excerpt: On blame, updating, how to win arguments
-categories: [review]
+title: "The Spark and the Battery"
+excerpt: On ideas and process
+categories: [mental model]
 comments: true
 ---
 Kudos to the webcomic SFP for putting this idea into words in the first place. Though I was highly skeptical of the premise based on title alone, I found the comic was actually not beating me with any kind of social justice stick and instead featured a flawed protagonist as confused as the rest of us. That is, this comic is less about Correct Morals and more about figuring them out – or realizing that there just isn’t a perfect solution – in the first place.

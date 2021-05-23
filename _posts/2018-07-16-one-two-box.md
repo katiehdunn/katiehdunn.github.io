@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Chaos in the Classroom"
-excerpt: On blame, updating, how to win arguments
+title: "Boxing"
+excerpt: The one- vs. two- box paradox
 categories: [review]
 comments: true
 ---

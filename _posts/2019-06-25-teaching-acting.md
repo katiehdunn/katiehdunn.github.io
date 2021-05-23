@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Review: Mindstorms"
-categories: [mental model]
+title: "Teaching and Acting"
+categories: [education, mental model]
 comments: true
 ---
 07:05, 7F, air

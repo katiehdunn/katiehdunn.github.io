@@ -4,8 +4,6 @@ title: "I’m not a STEM teacher (yet)"
 categories: [education, design, life]
 comments: true
 ---
-early December, bed, attic, Somerville
-
 Last May, I had my teaching license. I could’ve been employed in a public school already, indoctrinating over a hundred students for the duration of the school year – but two big reasons I felt uncomfortable diving into teaching were 1) I didn’t know what I was going to do on a day-to-day basis and 2) I didn’t know exactly what kind of teacher I wanted to be.
 
 Though I haven’t worked on (1) a ton yet, I think I’ve finally worked through a lot more of (2).

@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Review: Mindstorms"
-categories: [education, review]
+title: "Parachute Teaching"
+categories: [education]
 comments: true
 ---
-
 This past week, I parachute-taught 7th graders at Chelsea Public Schools. Unlike traditional substitute teaching, parachute teachers are given the freedom to teach anything they like (ideally, something within their expertise, or that they’re passionate about). For instance, a chef might come in and talk abut various cooking techniques or cuisines, while a programmer could show off some 3D-printed artifacts and guide students in making their own things.
 
 In theory, it’s a great idea. I remember all the times I had a substitute and did some worksheet that was obviously just busywork thrown together at the last minute. As a high schooler, I also would’ve benefitted from exposure to subjects outside the school curriculum; high-school me thought the space of “academically legitimate” possibilities was limited to what was offered in school, and would never have considered actually pursuing a field like astronomy or linguistics without outside inspiration.

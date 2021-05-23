@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Review: Mindstorms"
-categories: [mental model]
+title: "Tunnel Vision"
+categories: [education]
 comments: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "I’m not a STEM teacher (yet)"
-categories: [education, design, life]
+title: "Aesthetics of Biology and Physics"
+categories: [education, life]
 comments: true
 ---
 
