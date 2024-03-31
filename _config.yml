@@ -5,7 +5,7 @@
 #
 title: katiehdunn
 email: katiehdunn@gmail.com
-description: A semi-personal blog.
+description: Katie Dunn's personal website.
 url: # the base hostname & protocol for your site
 keywords: ["katiehdunn", "katie", "dunn", "katie dunn"]
 
@@ -36,7 +36,7 @@ owner:
   name: Katie Dunn
   avatar: favicon.png
   job: "Researcher | STEM Educator"
-  bio: "Interested in learning"
+  bio: " measuring that which is difficult to measure"
   email: katiehdunn@gmail.com
 #  disqus-shortname:
 #  twitter: #username

@@ -1,13 +1,28 @@
 # careers section data
-- name: Boston Latin School
-  link: https://www.bls.org/
-  date: 2019 - present
-  job:  STEM Teacher
-
 - name: Center for Curriculum Redesign
   link: https://www.curriculumredesign.org/
   date: 2019 - present
-  job:  Education Researcher, Manager 
+  job:  Research Lead 
+
+- name: Summer Science Program
+  link: https://summerscience.org/
+  date: Summer '24
+  job:  Site Director in Synthetic Chemistry
+
+- name: Walter Payton College Prep
+  link: https://www.wpcp.org/
+  date: 2023 - 2024
+  job:  STEM Teacher
+
+- name: Chicago Public Education Fund
+  link: https://thefundchicago.org/
+  date: 2023
+  job:  Educator Supports Fellow
+
+- name: Boston Latin School
+  link: https://www.bls.org/
+  date: 2019 - 2022
+  job:  STEM Teacher
 
 - name: Educational Studies Program
   link: https://esp.mit.edu/
