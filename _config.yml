@@ -36,8 +36,8 @@ owner:
   name: Katie Dunn
   avatar: favicon.png
   job: "Researcher | STEM Educator"
-  bio: " measuring that which is difficult to measure"
-  email: katiehdunn@gmail.com
+  bio: "measuring that which is difficult to measure"
+#  email: 
 #  disqus-shortname:
 #  twitter: #username
 #  facebook: #username
@@ -48,7 +48,7 @@ owner:
 #    ad-client:
 #    ad-slot:
 #  bing-verify:
-  github: katiehdunn
+#  github: katiehdunn
 #  gitlab: #username
 #  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #  linkedin: #username
