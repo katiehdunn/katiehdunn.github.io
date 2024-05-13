@@ -34,6 +34,9 @@ I've also written a few puzzles. Below is a complete list, with ones I'm particu
 While creating various hunts, I've also been involved on the art team. I used Procreate and Inkscape to make some icons and backgrounds.
 * I designed the [round map](https://puzzles.mit.edu/2023/interestingthings.museum), [atrium](https://puzzles.mit.edu/2023/interestingthings.museum/rounds/atrium) and [art gallery](https://puzzles.mit.edu/2023/interestingthings.museum/rounds/art) in Mystery Hunt '23.
 * I also made the following icons:
+
+[acrobat](/img/art/acrobat.png){:height="36px" width="36px"}
+
 <img src="{{ site.url }}/img/art/acrobat.jpg" alt="acrobats">
 <img src="{{ site.url }}/img/art/bazaar.jpg" alt="bazaar">
 <img src="{{ site.url }}/img/art/itinerary.jpg" alt="itinerary">
